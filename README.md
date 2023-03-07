@@ -55,6 +55,6 @@ https://json.nlohmann.me/
 ## Authors
 
 | Martin P. | Juan Diego P. | Marcelo Z. | Oscar C. |
-|   :---:    |    :----:   |   :---:    |  :---:     |   :---:    |
+|   :---:    |    :----:   |    :---:     |   :---:    |
 | <img src="https://avatars.githubusercontent.com/u/87045535?v=4">  | <img src="https://avatars.githubusercontent.com/u/66135437?v=4">   | <img src="https://avatars.githubusercontent.com/u/85197213?v=4"> | <img src="https://avatars.githubusercontent.com/u/112034734?v=4">  |
 [Martin Perez Bonany](https://github.com/Owzok) |  [Juan Diego Prochazka](https://github.com/juandiegoproch)  |  [Marcelo Zuloeta](https://github.com/marceloZS)   |  [Oscar Chu Lao](https://github.com/PachoRyan) |
